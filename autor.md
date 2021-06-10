@@ -2,8 +2,8 @@
 
 Preencha os dados abaixo para identificar a autoria do trabalho.
 
-- Nome: *\<insira Karolayne Belo Silva Galvão de Melo>*
-- Email: *\<insira karolbello98@gmail.com>*
+- Nome: *\<insira Karolayne Belo Silva Galvão de Melo> karol*
+- Email: *\<insira karolbello98@gmail.com>* s
 - Turma: *\<insira T01 - Julio>*
 
 # Questões Finalizadas
