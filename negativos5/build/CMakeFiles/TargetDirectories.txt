@@ -1,0 +1,4 @@
+/home/karolbello/lista-1-karolbelo/negativos5/build/CMakeFiles/rebuild_cache.dir
+/home/karolbello/lista-1-karolbelo/negativos5/build/CMakeFiles/edit_cache.dir
+/home/karolbello/lista-1-karolbelo/negativos5/build/CMakeFiles/verify.dir
+/home/karolbello/lista-1-karolbelo/negativos5/build/CMakeFiles/program.dir
