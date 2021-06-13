@@ -12,19 +12,23 @@ using namespace std;
 int main( void )
 {
     // TODO: Adicione seu código aqui. 
-    int num1, num2, count;
-    int soma;
-    cout << "Digite os dois valores" << endl;
-    cin >> num1;
-    cin >> num2;
+    long long m, n, i, soma = 0;
 
-    for (int i = 0; i < num2; i++)
-     {  
-        count = count + 1;
-        soma = num1 + (count +i);
-     }
-    cout << soma <<endl;
+    cin >> m;
+    cin >> n;
 
+    if (n >= -10000 && n <=1000)
+    {
+    for (i = m; i <= n; i++){
+
+    
+        soma += i;
+    }
+    cout << soma << "\n";
+    
+    }else
+    cout << m << endl;
 
     return 0;
 }
+
