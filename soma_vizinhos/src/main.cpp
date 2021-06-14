@@ -15,16 +15,16 @@ int main(void)
 
     while (cin >> ws >> n >> ws >> m)
     {
-        if (m > 0)
+        if (m > 0) // condicao para m > 0
         {
             for (i = n; i < n + m; i++)
             {
                 soma += i;
             }
             cout << soma << "\n";
-            soma = 0;
+            soma = 0; //zerando soma para nao atrapalhar os outros casos
         }
-        else if (m < 0)
+        else if (m < 0) // condicao para m< 0
         {
             for (i = n; i >= (n + (m + 1)); i--)
             {
@@ -33,7 +33,7 @@ int main(void)
             cout << soma << "\n";
             soma = 0;
         }
-        else
+        else // quado tiver para m == 0, ultimo caso
         {
             soma += n;
             cout << soma << "\n";
