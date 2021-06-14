@@ -9,7 +9,6 @@ int main(void)
     // TODO: Adicione aqui seu código.
 
     int num, cont=0;
-    cout << "Digite 5 numeros" << endl;
     for (int i = 0; i < SIZE; i++)
     {
         

@@ -1,0 +1,8 @@
+/home/karolbello/lista-1-karolbelo/filter/build/CMakeFiles/rebuild_cache.dir
+/home/karolbello/lista-1-karolbelo/filter/build/CMakeFiles/edit_cache.dir
+/home/karolbello/lista-1-karolbelo/filter/build/CMakeFiles/run_tests.dir
+/home/karolbello/lista-1-karolbelo/filter/build/CMakeFiles/func.dir
+/home/karolbello/lista-1-karolbelo/filter/build/tests/CMakeFiles/edit_cache.dir
+/home/karolbello/lista-1-karolbelo/filter/build/tests/CMakeFiles/all_tests.dir
+/home/karolbello/lista-1-karolbelo/filter/build/tests/CMakeFiles/rebuild_cache.dir
+/home/karolbello/lista-1-karolbelo/filter/build/tests/CMakeFiles/TM.dir

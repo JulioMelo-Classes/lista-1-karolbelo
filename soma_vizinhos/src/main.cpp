@@ -4,31 +4,42 @@
  * @data June, 6th 2021
  */
 #include <iostream>
-using std::cout;
-using std::cin;
-using std::endl;
 using namespace std;
 
-int main( void )
+int main(void)
 {
-    // TODO: Adicione seu código aqui. 
-    long long m, n, i, soma = 0;
+    // TODO: Adicione seu código aqui.
 
-    cin >> m;
-    cin >> n;
+    long long m, n, i, soma = 0, soma2 = 0;
+    int x;
 
-    if (n >= -10000 && n <=1000)
+    while (cin >> ws >> n >> ws >> m)
     {
-    for (i = m; i <= n; i++){
-
-    
-        soma += i;
+        if (m > 0)
+        {
+            for (i = n; i < n + m; i++)
+            {
+                soma += i;
+            }
+            cout << soma << "\n";
+            soma = 0;
+        }
+        else if (m < 0)
+        {
+            for (i = n; i >= (n + (m + 1)); i--)
+            {
+                soma += i;
+            }
+            cout << soma << "\n";
+            soma = 0;
+        }
+        else
+        {
+            soma += n;
+            cout << soma << "\n";
+            soma = 0;
+        }
     }
-    cout << soma << "\n";
-    
-    }else
-    cout << m << endl;
 
     return 0;
 }
-
