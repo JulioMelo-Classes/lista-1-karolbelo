@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/karolbello/lista-1-karolbelo/fibonacci/src/function.cpp
+function.h
+/home/karolbello/lista-1-karolbelo/fibonacci/src/function.h
+
+/home/karolbello/lista-1-karolbelo/fibonacci/src/function.h
+vector
+-
+
