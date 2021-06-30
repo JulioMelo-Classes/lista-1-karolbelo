@@ -1,5 +1,0 @@
-/home/karolbello/lista-1-karolbelo/fibonacci/build/CMakeFiles/rebuild_cache.dir
-/home/karolbello/lista-1-karolbelo/fibonacci/build/CMakeFiles/edit_cache.dir
-/home/karolbello/lista-1-karolbelo/fibonacci/build/CMakeFiles/run_tests.dir
-/home/karolbello/lista-1-karolbelo/fibonacci/build/CMakeFiles/all_tests.dir
-/home/karolbello/lista-1-karolbelo/fibonacci/build/CMakeFiles/func.dir
