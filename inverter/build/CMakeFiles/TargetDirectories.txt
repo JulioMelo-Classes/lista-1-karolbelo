@@ -1,0 +1,5 @@
+/home/karolbello/lista-1-karolbelo/inverter/build/CMakeFiles/rebuild_cache.dir
+/home/karolbello/lista-1-karolbelo/inverter/build/CMakeFiles/edit_cache.dir
+/home/karolbello/lista-1-karolbelo/inverter/build/CMakeFiles/run_tests.dir
+/home/karolbello/lista-1-karolbelo/inverter/build/CMakeFiles/all_tests.dir
+/home/karolbello/lista-1-karolbelo/inverter/build/CMakeFiles/func.dir

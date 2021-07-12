@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/function.h
+array
+-
+string
+-
+
+../tests/lib/test_manager/include/test_manager.h
+iostream
+-
+iomanip
+-
+algorithm
+-
+string
+-
+unordered_map
+-
+vector
+-
+
+/home/karolbello/lista-1-karolbelo/inverter/tests/main.cpp
+iostream
+-
+cassert
+-
+random
+-
+iterator
+-
+vector
+-
+array
+-
+test_manager.h
+/home/karolbello/lista-1-karolbelo/inverter/tests/test_manager.h
+function.h
+/home/karolbello/lista-1-karolbelo/inverter/tests/function.h
+
