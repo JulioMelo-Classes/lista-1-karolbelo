@@ -6,6 +6,9 @@
 #include <iostream>
 using namespace std;
 
+/*
+blz!
+*/
 int main(void)
 {
     // TODO: Adicione seu código aqui.
